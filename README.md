@@ -66,6 +66,7 @@
 36. Maps
 37. Windows parental control
 38. Microsoft Solitaire Collection
+39. Sending email from your mail id to anyone you want.
 
 NOTE : ATLAS includes Microsoft windows preinstalled programs and other applications like photoshop and the applications(offline) which are metioned above must be installed in your machine before hand to work with ATLAS.
 ** (Compatible with windows for now) **
@@ -84,6 +85,9 @@ NOTE : ATLAS includes Microsoft windows preinstalled programs and other applicat
 * For saying bye to ATLAS : see ya, see you, exit, quit, bye, toodles.
 * For Windows parental control : WPC/wpc
 * For calendar : calc (you can also ask like: can you help me with some calculations?)
+* For writing a custom email message: MAil/Email/custome 
+
+NOTE: The keywords mentioned above are case sensitive. If you want ATLAS to use these keywords then you can either give input of these keywords as one word or you can include these keywords in any sentence as they are described.
 
 #### Importing OS module.
 import os
