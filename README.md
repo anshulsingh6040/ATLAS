@@ -67,6 +67,7 @@
 37. Windows parental control
 38. Microsoft Solitaire Collection
 39. Sending email from your mail id to anyone you want.
+40. Opening any website with .com domain. (NOTE: when you call atlas to open chrome, atlas will ask which website do you want to open. Then your input should be only the website name. Example: Kaggle not kaggle.com)
 
 NOTE : ATLAS includes Microsoft windows preinstalled programs and other applications like photoshop and the applications(offline) which are metioned above must be installed in your machine before hand to work with ATLAS.
 ** (Compatible with windows for now) **
